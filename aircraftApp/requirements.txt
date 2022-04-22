@@ -1,0 +1,6 @@
+Requires the following installations:
+Python 3
+Plotly Express
+Pandas
+Streamlit
+SQLite
